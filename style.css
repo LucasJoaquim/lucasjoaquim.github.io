@@ -30,7 +30,6 @@ body {
   position: fixed;
   background-color: rgba(0, 0, 0, 0.72);
   height: 100%;
-  min-height: 640px;
   width: 100%;
   z-index: 999;
 }
@@ -77,8 +76,6 @@ li {
 
 .boxes {
   width: 42.5%;
-  max-width: 600px;
-  min-width: 50px;
   height: 200px;
   float: left;
   margin-left: 5%;
@@ -115,7 +112,7 @@ strong {
     padding: 0;
     width: 0;
     height: 0;
-    font-size: 50px;
+    font-size: 80px;
 }
 
 p {
@@ -150,20 +147,11 @@ p {
   background-position: left;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 600px) {
   strong {
     font-size: 40px;
   }
   p {
     font-size: 75%;
-  }
-}
-
-@media screen and (min-width: 800px) {
-  strong {
-    font-size: 80px;
-  }
-  p {
-    font-size: 150%;
   }
 }
