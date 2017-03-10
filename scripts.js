@@ -7,5 +7,5 @@ mudar = function(){
     return;
   }
   x.style.display = 'none';
-  y..background-image = url("menu.svg");   
+  y.background-image = url("menu.svg");   
 }
