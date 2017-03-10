@@ -73,10 +73,10 @@ li {
 }
 
 .boxes {
+  float: left;
   width: 43.5%;
   margin-left: 5%;
-  float: left;
-  margin-bottom: 20px;
+  margin-bottom: 5%;
   border-radius: 10px;
 }
 
