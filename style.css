@@ -19,8 +19,9 @@ body {
 }
 
 #dashboard {
-    width: 100%;
+    width: 80%;
     float: left;
+    margin-left: 10%;
     width: auto;
     height: auto;
     margin-top: 20px;
@@ -73,10 +74,9 @@ li {
 }
 
 .boxes {
-  width: 42.5%;
+  width: 50%;
   height: 200px;
   float: left;
-  margin-left: 5%;
   margin-bottom: 20px;
   border-radius: 10px;
 }
