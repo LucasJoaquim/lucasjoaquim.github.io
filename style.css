@@ -42,13 +42,13 @@ body {
   background-color: rgba(0, 0, 0, 0.72);
   height: 100%;
   width: 100%;
-  z-index: 999;
   margin-top: 75px;
+  z-index: 999;
 }
 
 #links {
   float: left;
-  height: 82%;
+  height: 100%;
   width: 75%;
   background-color: white;
   overflow-y: scroll;
@@ -80,7 +80,7 @@ li {
   height: 200px;
   float: left;
   margin-left: 5%;
-  margin-bottom: 5%;
+  margin-bottom: 20px;
   border-radius: 10px;
 }
 
@@ -93,10 +93,9 @@ li {
 
 .widget-description {
   float: left;
-  height: 50%;
+  height: 100%;
   width: 75%;
   border-radius: 10px;
-  margin-top: 25%;
 }
 
 .image {
@@ -106,15 +105,17 @@ li {
 }
 
 strong {
+    color: #6E6D6D;
     word-wrap: break-word;
     margin: 0;
     padding: 0;
     width: 0;
     height: 0;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 p {
+    color: #6E6D6D;
     word-wrap: break-word;
     margin: 0;
     padding: 0;
