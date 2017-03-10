@@ -144,7 +144,7 @@ p {
   background-position: 5% 50%;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 600px) {
   strong {
     font-size: 35px;
   }
