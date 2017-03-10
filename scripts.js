@@ -3,9 +3,9 @@ mudar = function(){
   var y = document.getElementById('menu');
   if( x.style.display === 'none') {
     x.style.display = 'block';
-    y.background-image = url("menu-preto.svg");                               
+    y.backgroundImage = url('menu-preto.svg');                               
     return;
   }
   x.style.display = 'none';
-  y.background-image = url("menu.svg");   
+  y.backgroundImage = url('menu.svg');   
 }
