@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <title>Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link href="style.css" rel="stylesheet">
+    <script src="scripts.js"></script>
+  <head>
+  <body>
+      <header id="header">
+        <img src="menu.svg" class="image" onclick="menu()">
+        <div id="logo">
+        </div>
+      </header>
+      <div id="overlay">
+        <div id="menu" onclick="menu()">
+           <img src="menu.svg" class="image">
+        </div>
+        <nav id="links">
+          <ul>
+            <li><a href="#">Estoque</a></li>
+            <li><a href="#">Equipe</a></li>
+            <li><a href="#">Financeiro</a></li>
+            <li><a href="#">Monitoramentos</a></li>
+            <li><a href="#">Diagnósticos</a></li>
+            <li><a href="#">Alarmes</a></li>
+            <li><a href="#">Est. Metereológica</a></li>
+          </lu>
+        </nav>
+      </div>
+      <section class="boxes">
+      </section>
+      <section class="boxes">
+      </section>
+      <section class="boxes">
+      </section>
+      <section class="boxes">
+      </section>
+      <section class="boxes">
+      </section>
+      <section class="boxes">
+      </section>
+  <body>
+</html>

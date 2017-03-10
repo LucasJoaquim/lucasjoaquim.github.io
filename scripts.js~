@@ -1,0 +1,8 @@
+menu = function(){
+  var x = document.getElementById('overlay').style;
+  if( x.display === 'none') {
+    x.display = 'block';
+    return;
+  }
+  x.display = 'none';
+}
