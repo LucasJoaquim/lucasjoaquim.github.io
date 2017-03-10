@@ -73,8 +73,8 @@ li {
 }
 
 .boxes {
-  width: 50%;
-  height: 200px;
+  width: 43.5%;
+  margin-left: 5%;
   float: left;
   margin-bottom: 20px;
   border-radius: 10px;
