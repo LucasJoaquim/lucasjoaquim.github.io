@@ -1,5 +1,5 @@
 body {
-  font-family: 'Tangerine', serif;
+  font-family: arial;
   padding: 0px;
   border: 0px;
   margin: 0px;
@@ -105,7 +105,7 @@ li {
 }
 
 strong {
-    color: #6E6D6D;
+    color: rgba(0,0,0,0.4);;
     word-wrap: break-word;
     margin: 0;
     padding: 0;
@@ -115,7 +115,7 @@ strong {
 }
 
 p {
-    color: #6E6D6D;
+    color: rgba(0,0,0,0.4);;
     word-wrap: break-word;
     margin: 0;
     padding: 0;
