@@ -54,6 +54,13 @@ body {
   overflow-y: scroll;
 }
 
+ul img {
+    background: black;
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
 ul {
   margin: 0px;
   padding: 0px;
