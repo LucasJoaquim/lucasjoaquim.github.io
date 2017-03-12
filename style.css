@@ -42,12 +42,12 @@ body {
   background-image: url("menu.svg");
   background-repeat: no-repeat;
   background-position: left;
-  background-position: 50% 100%;
+  background-position: 10px 20px;
 }
 
 #links {
   float: left;
-  height: 85%;
+  height: 80%;
   width: 75%;
   background-color: white;
   overflow-y: scroll;
@@ -137,7 +137,7 @@ p {
 .white {
   background: white;
   width: 75%;
-  height: 15%;
+  height: 20%;
   background-image: url("menu-gray.svg");
   background-repeat: no-repeat;
   background-position: 5% 50%;
