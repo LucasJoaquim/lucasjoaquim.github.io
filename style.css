@@ -46,7 +46,8 @@ body {
 }
 
 #links {
-  float: left;
+  position: fixed;
+  margin-top: 20%;
   height: 80%;
   width: 75%;
   background-color: white;
@@ -135,9 +136,10 @@ p {
 }
 
 .white {
+  position: fixed;
   background: white;
   width: 75%;
-  height: 20%;
+  height: 20%; 
   background-image: url("menu-gray.svg");
   background-repeat: no-repeat;
   background-position: 5% 50%;
