@@ -47,7 +47,7 @@ body {
 
 #links {
   position: fixed;
-  margin-top: 20%;
+  top: 20%;
   height: 80%;
   width: 75%;
   background-color: white;
