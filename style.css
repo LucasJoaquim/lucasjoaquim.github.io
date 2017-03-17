@@ -111,9 +111,9 @@ li {
 
 .image {
   position: relative;
-  height: 95%;
-  top: 5%;
-  left: 5%;
+  height: 90%;
+  top: 10px;
+  left: 10px;
 }
 
 strong {
