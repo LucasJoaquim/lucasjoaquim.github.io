@@ -149,7 +149,6 @@ p {
   background: white;
   width: 75%;
   height: 20%;
-  max-height: 75px;
   background-image: url("menu-gray.svg");
   background-repeat: no-repeat;
   background-position: 5% 50%;
