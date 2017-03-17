@@ -95,9 +95,7 @@ li {
 
 .widget-image {
   float: left;
-  margin-top: 5%;
-  margin-left: 95%;
-  height: 20%;
+  height: 25%;
   width: 90%;
   border-radius: 10px;
 }
