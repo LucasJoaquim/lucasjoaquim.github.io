@@ -94,15 +94,16 @@ li {
 }
 
 .widget-image {
+  margin-left: 5%;
   float: left;
-  height: 25%;
+  height: 30%;
   width: 90%;
   border-radius: 10px;
 }
 
 .widget-description {
   float: left;
-  height: 75%;
+  height: 70%;
   border-radius: 10px;
   text-align: right;
   width: 95%;
