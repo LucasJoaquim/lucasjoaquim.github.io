@@ -50,8 +50,8 @@ body {
 
 #links {
   position: fixed;
-  top: 20%;
-  height: 80%;
+  top: 15%;
+  height: 85%;
   width: 75%;
   background-color: white;
   overflow-y: scroll;
@@ -152,7 +152,7 @@ p {
   position: fixed;
   background: white;
   width: 75%;
-  height: 20%;
+  height: 15%;
   background-image: url("menu-gray.svg");
   background-repeat: no-repeat;
   background-position: 5% 50%;
