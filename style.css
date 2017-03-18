@@ -166,3 +166,10 @@ p {
     font-size: 100%;
   }
 }
+
+@media screen and (max-width: 300) {
+   a {
+    font-size: 15px;
+  }
+ }
+  
