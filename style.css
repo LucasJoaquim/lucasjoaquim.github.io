@@ -62,7 +62,7 @@ body {
   width: 100%;
 }
 
-.boxes strong {
+strong {
     color: rgba(0,0,0,0.4);;
     word-wrap: break-word;
     margin: 0;
@@ -73,7 +73,7 @@ body {
     margin-right: 10px;
 }
 
-.boxes p {
+p {
     float: right;
     color: rgba(0,0,0,0.4);;
     word-wrap: break-word;
@@ -206,11 +206,11 @@ a {
     font-size: 12px;
    }
 
-   .boxes strong {
+   strong {
      font-size: 20px;
    }
 
-   .boxes p {
+   p {
      font-size: 15px;
    }
  }
