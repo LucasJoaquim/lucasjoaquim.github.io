@@ -21,8 +21,7 @@ body {
   float: left;
   background-color: #7fbc28;
   width: 100%;
-  height: 40%;
-  max-height: 75px;
+  height: 75px;
   z-index: 9999;
   background-image: url("small-logo.png");
   background-repeat: no-repeat;
