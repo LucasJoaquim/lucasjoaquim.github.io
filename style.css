@@ -103,6 +103,7 @@ p {
 #links {
   position: fixed;
   height: 70%;
+  top: 15%;
   width: 75%;
   background-color: white;
   overflow-y: scroll;
@@ -111,6 +112,7 @@ p {
 #user {
   position: fixed;
   height: 15%;
+  top: 15;
   width: 75%;
   background: white;
   border-top: 1px solid #e9e9e9;
