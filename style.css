@@ -131,14 +131,9 @@ p {
   color: #75b127;
 }
 
-#user a {
+#user p a {
   text-decoration: none;
-  position: relative;
-  float: right;
-  top: 50%;
-  right: 5%;
-  transform: translate(-50%, -50%);
-  font-size: 48px;
+  right: 10%;
 }
 
 #user a:hover {
