@@ -93,7 +93,7 @@ p {
 
 #overlay {
   display: none;
-  position: fixed;
+  position: relative;
   background-color: rgba(0, 0, 0, 0.72);
   height: 100%;
   width: 100%;
@@ -101,7 +101,7 @@ p {
 }
 
 #links {
-  position: relative;
+  position: fixed;
   height: 70%;
   width: 75%;
   background-color: white;
@@ -109,7 +109,7 @@ p {
 }
 
 #user {
-  position: relative;
+  position: fixed;
   height: 15%;
   width: 75%;
   background: white;
@@ -179,7 +179,7 @@ a {
 }
 
 .white {
-  position: relative;
+  position: fixed;
   background: white;
   width: 75%;
   height: 15%;
