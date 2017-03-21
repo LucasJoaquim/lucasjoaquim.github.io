@@ -120,8 +120,7 @@ p {
   position: relative;
   float: left;
   top: 50%;
-  left: 18%;
-  transform: translate(-50%, -50%);
+  transform: translate(100%, -50%);
   margin: 0;
 }
 
@@ -129,8 +128,7 @@ p {
   position: relative;
   float: right;
   top: 50%;
-  right: 10%;
-  transform: translate(-50%, -50%);
+  transform: translate(-200%, -50%);
   margin: 0;
 }
 
