@@ -16,7 +16,6 @@ body {
     margin-top: 20px;
 }
 
-
 #header {
   float: left;
   background-color: #7fbc28;
@@ -130,7 +129,7 @@ p {
   position: relative;
   float: right;
   top: 50%;
-  right: 20%;
+  right: 15%;
   transform: translate(-50%, -50%);
   margin: 0;
 }
