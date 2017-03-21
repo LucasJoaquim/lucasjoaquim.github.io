@@ -198,7 +198,7 @@ a {
   }
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 350px) {
    a {
     font-size: 12px;
    }
@@ -208,6 +208,6 @@ a {
    }
 
    p {
-     font-size: 12px;
+     font-size: 13px;
    }
  }
