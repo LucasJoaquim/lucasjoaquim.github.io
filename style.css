@@ -190,6 +190,20 @@ a {
 }
 
 @media screen and (max-width: 600px) {
+  .white {
+     height: 15%;  
+  }
+
+   #links {
+     top: 15%;
+     height: 70%;
+   }
+  
+   #user {
+     top: 85%;
+     height: 15%;
+   }  
+  
   strong {
     font-size: 30px;
   }
@@ -199,8 +213,22 @@ a {
 }
 
 @media screen and (max-width: 350px) {
+   .white {
+     height: 20%;  
+   }
+   
+   #links {
+     top: 20%;
+     height: 60%;
+   }
+  
+   #user {
+     top: 80%;
+     height: 20%;
+   }
+ 
    a {
-    font-size: 12px;
+      font-size: 12px;
    }
 
    strong {
