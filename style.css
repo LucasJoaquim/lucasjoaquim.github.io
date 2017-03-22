@@ -215,3 +215,19 @@ a {
    }
   
  }
+
+@media screen and (max-height: 600px) {
+  
+  #hiddenMenu {
+    height: 20%;    
+  }
+  
+  #links {
+    top: 20%;
+    height: 60%;      
+  }
+  
+  #user {
+    top: 80%;
+    height: 20%;
+  }
