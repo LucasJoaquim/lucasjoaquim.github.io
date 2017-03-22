@@ -219,17 +219,17 @@ a {
 @media screen and (max-height: 250px) {
   
   #hiddenMenu {
-    height: 20%;    
+    height: 25%;    
   }
   
   #links {
-    top: 20%;
-    height: 60%;      
+    top: 25%;
+    height: 50%;      
   }
   
   #user {
-    top: 80%;
-    height: 20%;
+    top: 75%;
+    height: 25%;
   }
   
 }
