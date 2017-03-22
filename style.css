@@ -34,7 +34,7 @@ body {
   background-image: url("menu.svg");
   background-repeat: no-repeat;
   background-position: left;
-  background-position: 10px 20px;
+  background-position: 15px 20px;
 }
 
 .boxes {
@@ -114,7 +114,7 @@ p {
   position: fixed;
   background: white;
   width: 75%;
-  height: 10%;
+  height: 12%;
   background-image: url("menu-gray.svg");
   background-repeat: no-repeat;
   background-position: 5% 50%;
@@ -122,8 +122,8 @@ p {
 
 #links {
   position: fixed;
-  height: 80%;
-  top: 10%;
+  height: 76%;
+  top: 12%;
   width: 75%;
   background-color: white;
   overflow-y: scroll;
@@ -131,8 +131,8 @@ p {
 
 #user {
   position: fixed;
-  height: 10%;
-  top: 90%;
+  height: 12%;
+  top: 88%;
   width: 75%;
   background: white;
   border-top: 1px solid #e9e9e9;
