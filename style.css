@@ -216,24 +216,6 @@ a {
   
  }
 
-@media screen and (max-height: 250px) {
-  
-  #hiddenMenu {
-    height: 25%;    
-  }
-  
-  #links {
-    top: 25%;
-    height: 50%;      
-  }
-  
-  #user {
-    top: 75%;
-    height: 25%;
-  }
-  
-}
-
 @media screen and (max-height: 600px) {
   
   #hiddenMenu {
@@ -248,6 +230,24 @@ a {
   #user {
     top: 85%;
     height: 15%;
+  }
+  
+}
+
+@media screen and (max-height: 250px) {
+  
+  #hiddenMenu {
+    height: 25%;    
+  }
+  
+  #links {
+    top: 25%;
+    height: 50%;      
+  }
+  
+  #user {
+    top: 75%;
+    height: 25%;
   }
   
 }
