@@ -216,24 +216,6 @@ a {
   
  }
 
-@media screen and (max-height: 600px) {
-  
-  #hiddenMenu {
-    height: 15%;    
-  }
-  
-  #links {
-    top: 15%;
-    height: 70%;      
-  }
-  
-  #user {
-    top: 85%;
-    height: 15%;
-  }
-  
-}
-
 @media screen and (max-height: 250px) {
   
   #hiddenMenu {
