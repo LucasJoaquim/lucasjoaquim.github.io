@@ -1,27 +1,27 @@
 body {
-  font-family: arial;
-  padding: 0px;
-  border: 0px;
-  margin: 0px;
   position: relative;
   height: 100%;
   width: 100%;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+  font-family: arial;
 }
 
 #dashboard {
-    width: 92%;
     float: left;
-    margin-left: 5%;
+    width: 92%;
     height: auto;
+    margin-left: 5%;
     margin-top: 20px;
 }
 
 #header {
   float: left;
-  background-color: #7fbc28;
   width: 100%;
   height: 75px;
   z-index: 9999;
+  background-color: #7fbc28;
   background-image: url("small-logo.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -61,6 +61,18 @@ body {
   width: 100%;
 }
 
+.yellow {
+  background: #fcba13;
+}
+
+.green {
+  background-color: #75b127;
+}
+
+.red {
+  background-color: #fc463a;
+}
+
 strong {
     color: rgba(0,0,0,0.4);;
     word-wrap: break-word;
@@ -96,6 +108,16 @@ p {
   height: 100%;
   width: 100%;
   z-index: 999;
+}
+
+#hiddenMenu  {
+  position: fixed;
+  background: white;
+  width: 75%;
+  height: 10%;
+  background-image: url("menu-gray.svg");
+  background-repeat: no-repeat;
+  background-position: 5% 50%;
 }
 
 #links {
@@ -167,42 +189,7 @@ a {
     color: #656565;
 }
 
-.yellow {
-  background: #fcba13;
-}
-
-.green {
-  background-color: #75b127;
-}
-
-.red {
-  background-color: #fc463a;
-}
-
-.white {
-  position: fixed;
-  background: white;
-  width: 75%;
-  height: 10%;
-  background-image: url("menu-gray.svg");
-  background-repeat: no-repeat;
-  background-position: 5% 50%;
-}
-
 @media screen and (max-width: 600px) {
-  .white {
-     height: 15%;  
-  }
-
-   #links {
-     top: 15%;
-     height: 70%;
-   }
-  
-   #user {
-     top: 85%;
-     height: 15%;
-   }  
   
   strong {
     font-size: 30px;
@@ -210,32 +197,21 @@ a {
   p {
     font-size: 100%;
   }
+  
 }
 
 @media screen and (max-width: 350px) {
-   .white {
-     height: 20%;  
-   }
-   
-   #links {
-     top: 20%;
-     height: 60%;
-   }
-  
-   #user {
-     top: 80%;
-     height: 20%;
-   }
  
    a {
-      font-size: 12px;
+     font-size: 12px;
    }
 
    strong {
      font-size: 20px;
    }
-
+  
    p {
      font-size: 13px;
    }
+  
  }
