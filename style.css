@@ -216,7 +216,7 @@ a {
   
  }
 
-@media screen and (max-height: 600px) {
+@media screen and (max-height: 300px) {
   
   #hiddenMenu {
     height: 20%;    
@@ -231,3 +231,23 @@ a {
     top: 80%;
     height: 20%;
   }
+  
+}
+
+@media screen and (max-height: 600px) {
+  
+  #hiddenMenu {
+    height: 15%;    
+  }
+  
+  #links {
+    top: 15%;
+    height: 70%;      
+  }
+  
+  #user {
+    top: 85%;
+    height: 15%;
+  }
+  
+}
