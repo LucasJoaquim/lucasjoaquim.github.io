@@ -216,7 +216,7 @@ a {
   
  }
 
-@media screen and (max-height: 300px) {
+@media screen and (max-height: 250px) {
   
   #hiddenMenu {
     height: 20%;    
